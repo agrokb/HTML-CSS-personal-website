@@ -1,0 +1,163 @@
+body{
+    background-color: #a7e9af;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+    margin: 0px;
+}
+
+.top-container{
+    margin: 0px;
+}
+
+h1{
+    font-size: 45px;
+    color: #66BFBF;
+    margin: 0px;
+    margin-top:150px;
+    line-height: 2;
+}
+
+h2{
+    font-size:40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color:#66BFBF;
+    height: 60px;
+}
+
+h3{
+   color: #11999E;
+   height: 35px;
+   font-size: 25px;
+}
+
+hr{ 
+    border: none;
+    border-top-style:dotted;
+    border-width: 8px;
+    width: 10%;
+    height: 3px;
+    color:  #99ffcc;
+}
+
+.japan{
+    height: 100px;
+    width: 150px;
+    border-radius: 50px;
+    margin-top: 100px;
+}
+
+.cloud-top{
+    position: absolute;
+    top:50px;
+    left: 400px;
+}
+.cloud-bottom{
+    position: absolute;
+    top:120px;
+    right: 300px;
+}
+
+
+
+.middle-container{ 
+    background-color:#eef9bf;
+    margin: 0px;
+}
+
+.bottom-container{
+    background-color: #75b79e;
+    margin: 0px;
+    height: 200px;
+}
+
+.skill-1{
+   text-align: left;
+   margin-left: 5%;
+
+}
+
+.data-analysis{
+    height: 80px;
+    width: 100px;
+    position: absolute;
+    margin-top: 35px;
+}
+
+.data{
+    text-align: left;
+    margin-left: 5%;
+}
+
+.hello{
+    text-align: center;
+}
+
+.develop{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    left:50%;
+}
+
+.dev{
+    margin-top: 0%;
+    margin-right: 15%;
+    text-align: right;
+}
+
+.dev-tit{
+    text-align: right;
+    margin-right: 25%;
+}
+
+
+.skills{
+    height:600px;
+}
+
+.skill-row{
+    height:200px;
+}
+
+.profile{
+    height: 400px;
+}
+
+.contact-me{
+    height: 400px;
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-top: 10px;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link{
+    color:#11999E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+    line-height: 5;
+    margin-left: 20px;
+}
+
+.bottom-container p{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+    margin-top: 100px;
+}
